@@ -1,0 +1,640 @@
+Название игры:Stellar Settlers: Space Base Builder
+Цена:460 руб230 руб
+Описание игры:Colony Sim, City Builder, Base Building, Resource Management
+--------------------------------------------------
+Название игры:Longvinter
+Цена:999 руб599 руб
+Описание игры:Multiplayer, Survival, Crafting, Open World
+--------------------------------------------------
+Название игры:Cabernet
+Цена:710 руб639 руб
+Описание игры:Singleplayer, Female Protagonist, Simulation, Vampire
+--------------------------------------------------
+Название игры:Microtopia
+Цена:710 руб639 руб
+Описание игры:Colony Sim, Automation, Procedural Generation, Resource Management
+--------------------------------------------------
+Название игры:Lost Records: Bloom & Rage
+Цена:1300 руб1170 руб
+Описание игры:LGBTQ+, Choices Matter, Female Protagonist, 1990's
+--------------------------------------------------
+Название игры:Tiny Pasture
+Цена:240 руб216 руб
+Описание игры:Farming Sim, Idler, Cute, Clicker
+--------------------------------------------------
+Название игры:SNØ: Ultimate Freeriding
+Цена:320 руб256 руб
+Описание игры:Singleplayer, Minimalist, Sports, Procedural Generation
+--------------------------------------------------
+Название игры:The Legend of Heroes: Trails through Daybreak II
+Цена:3900 руб
+Описание игры:RPG, Action, Adventure, JRPG
+--------------------------------------------------
+Название игры:Tomb Raider IV-VI Remastered
+Цена:1100 руб
+Описание игры:Action, Adventure, Action-Adventure, Platformer
+--------------------------------------------------
+Название игры:Panelka
+Цена:235 руб211 руб
+Описание игры:Simulation, Design & Illustration, Casual, Relaxing
+--------------------------------------------------
+Название игры:Mind Over Magic
+Цена:449 руб
+Описание игры:Survival, Building, Colony Sim, Management
+--------------------------------------------------
+Название игры:Urban Myth Dissolution Center
+Цена:650 руб585 руб
+Описание игры:Visual Novel, Adventure, Singleplayer, 2D
+--------------------------------------------------
+Название игры:Door Kickers 2: Task Force North
+Цена:880 руб
+Описание игры:Tactical, Top-Down, Real-Time with Pause, Real Time Tactics
+--------------------------------------------------
+Название игры:A Game About Digging A Hole
+Цена:200 руб
+Описание игры:Exploration, Voxel, Sandbox, Mining
+--------------------------------------------------
+Название игры:Keep Driving
+Цена:650 руб
+Описание игры:Pixel Graphics, Atmospheric, Inventory Management, Adventure
+--------------------------------------------------
+Название игры:Rift of the NecroDancer
+Цена:710 руб
+Описание игры:Rhythm, Minigames, Female Protagonist, Difficult
+--------------------------------------------------
+Название игры:While Waiting
+Цена:710 руб
+Описание игры:Adventure, Comedy, Puzzle, Cute
+--------------------------------------------------
+Название игры:UNDERWARD
+Цена:320 руб
+Описание игры:Horror, Online Co-Op, Exploration, Multiplayer
+--------------------------------------------------
+Название игры:The Headliners
+Цена:320 руб
+Описание игры:Online Co-Op, Horror, Action, Co-op
+--------------------------------------------------
+Название игры:Hello Kitty Island Adventure
+Цена:1300 руб
+Описание игры:Cozy, Open World, Simulation, Adventure
+--------------------------------------------------
+Название игры:ENDER MAGNOLIA: Bloom in the Mist
+Цена:1200 руб
+Описание игры:Metroidvania, 2D, Singleplayer, Dark Fantasy
+--------------------------------------------------
+Название игры:GuGu Pizza : Delivering Pizza to the Space Station? Boss, this is just not right!
+Цена:280 руб
+Описание игры:Indie, Platformer, 2D Platformer, 2.5D
+--------------------------------------------------
+Название игры:Heroes of Hammerwatch II
+Цена:650 руб
+Описание игры:RPG, Action, Action RPG, Action Roguelike
+--------------------------------------------------
+Название игры:The Last Flame
+Цена:650 руб390 руб
+Описание игры:Roguelike, Auto Battler, Strategy, Tactical
+--------------------------------------------------
+Название игры:My Summer Car
+Цена:349 руб
+Описание игры:Automobile Sim, Simulation, Driving, Open World
+--------------------------------------------------
+Название игры:Royal Quest Online
+Цена:Free
+Описание игры:MMORPG, Fantasy, Adventure, Free to Play
+--------------------------------------------------
+Название игры:Deathless. Tales of Old Rus
+Цена:999 руб
+Описание игры:Roguelike Deckbuilder, Card Game, Deckbuilding, Card Battler
+--------------------------------------------------
+Название игры:MiSide
+Цена:550 руб
+Описание игры:Psychological Horror, Cute, Story Rich, Horror
+--------------------------------------------------
+Название игры:Legacy of Kain™ Soul Reaver 1&2 Remastered
+Цена:1100 руб825 руб
+Описание игры:Action, Adventure, Dark Fantasy, Third Person
+--------------------------------------------------
+Название игры:Granny: Escape Together
+Цена:385 руб
+Описание игры:Horror, Survival Horror, Atmospheric, Hidden Object
+--------------------------------------------------
+Название игры:Counter-Strike 2
+Цена:Free
+Описание игры:FPS, Shooter, Multiplayer, Competitive
+--------------------------------------------------
+Название игры:Dota 2
+Цена:Free
+Описание игры:Free to Play, MOBA, Multiplayer, Strategy
+--------------------------------------------------
+Название игры:PUBG: BATTLEGROUNDS
+Цена:Free
+Описание игры:Survival, Shooter, Battle Royale, Multiplayer
+--------------------------------------------------
+Название игры:Rust
+Цена:1499 руб
+Описание игры:Survival, Crafting, Multiplayer, Open World
+--------------------------------------------------
+Название игры:The Outlast Trials
+Цена:1300 руб520 руб
+Описание игры:Horror, Multiplayer, Co-op, Survival Horror
+--------------------------------------------------
+Название игры:DayZ
+Цена:2790 руб1395 руб
+Описание игры:Survival, Open World, Online Co-Op, Zombies
+--------------------------------------------------
+Название игры:Path of Exile 2
+Цена:1398 руб
+Описание игры:Action RPG, Hack and Slash, RPG, Action
+--------------------------------------------------
+Название игры:Noita
+Цена:435 руб174 руб
+Описание игры:Physics, Pixel Graphics, Roguelike, Difficult
+--------------------------------------------------
+Название игры:Baldur's Gate 3
+Цена:1999 руб
+Описание игры:RPG, Character Customization, Choices Matter, Story Rich
+--------------------------------------------------
+Название игры:Warhammer 40,000: Rogue Trader
+Цена:1599 руб879 руб
+Описание игры:Multiple Endings, Multiplayer, Co-op, Strategy
+--------------------------------------------------
+Название игры:Ranch Simulator: Build, Hunt, Farm
+Цена:465 руб93 руб
+Описание игры:Simulation, Multiplayer, Online Co-Op, Open World
+--------------------------------------------------
+Название игры:Euro Truck Simulator 2
+Цена:686 руб
+Описание игры:Driving, Transportation, Simulation, Open World
+--------------------------------------------------
+Название игры:eFootball™
+Цена:Free
+Описание игры:Football (Soccer), Free to Play, Controller, Multiplayer
+--------------------------------------------------
+Название игры:ARK: Survival Ascended
+Цена:4220 руб2321 руб
+Описание игры:Early Access, Survival, Open World, Multiplayer
+--------------------------------------------------
+Название игры:Black Myth: Wukong
+Цена:3599 руб
+Описание игры:Mythology, Action RPG, Action, Souls-like
+--------------------------------------------------
+Название игры:ELDEN RING
+Цена:3599 руб
+Описание игры:Souls-like, Open World, Dark Fantasy, RPG
+--------------------------------------------------
+Название игры:Russian Fishing 4
+Цена:Free
+Описание игры:Fishing, Free to Play, Multiplayer, Simulation
+--------------------------------------------------
+Название игры:BeamNG.drive
+Цена:880 руб
+Описание игры:Simulation, Driving, Physics, Realistic
+--------------------------------------------------
+Название игры:Wallpaper Engine
+Цена:329 руб
+Описание игры:Mature, Utilities, Anime, Software
+--------------------------------------------------
+Название игры:Phasmophobia
+Цена:710 руб
+Описание игры:Horror, Online Co-Op, Multiplayer, Psychological Horror
+--------------------------------------------------
+Название игры:Warhammer 40,000: Space Marine 2
+Цена:3199 руб
+Описание игры:Warhammer 40K, Action, Third-Person Shooter, Multiplayer
+--------------------------------------------------
+Название игры:Team Fortress 2
+Цена:Free
+Описание игры:Free to Play, Hero Shooter, Multiplayer, FPS
+--------------------------------------------------
+Название игры:RoadCraft
+Цена:2499 руб
+Описание игры:Simulation, Building, Adventure, Driving
+--------------------------------------------------
+Название игры:Factorio
+Цена:1200 руб
+Описание игры:Automation, Base Building, Resource Management, Sandbox
+--------------------------------------------------
+Название игры:Insurgency: Sandstorm
+Цена:1699 руб560 руб
+Описание игры:FPS, Realistic, Shooter, Military
+--------------------------------------------------
+Название игры:The Lord of the Rings: Return to Moria™
+Цена:880 руб528 руб
+Описание игры:Open World Survival Craft, Dwarf, Base Building, Survival
+--------------------------------------------------
+Название игры:Lethal Company
+Цена:385 руб
+Описание игры:Online Co-Op, Horror, First-Person, Co-op
+--------------------------------------------------
+Название игры:Terraria
+Цена:385 руб
+Описание игры:Open World Survival Craft, Sandbox, Survival, 2D
+--------------------------------------------------
+Название игры:Once Human
+Цена:Free
+Описание игры:Multiplayer, Open World Survival Craft, Free to Play, Survival
+--------------------------------------------------
+Название игры:Strinova
+Цена:Free
+Описание игры:Free to Play, Anime, Third-Person Shooter, Hero Shooter
+--------------------------------------------------
+Название игры:Life is Feudal: Arden
+Цена:Free
+Описание игры:Action, RPG, Simulation, MMORPG
+--------------------------------------------------
+Название игры:Cafemart Simulator
+Цена:Нет цены
+Описание игры:Early Access, Simulation, Building, Online Co-Op
+--------------------------------------------------
+Название игры:R.E.P.O.
+Цена:Нет цены
+Описание игры:Early Access, Online Co-Op, Horror, Co-op
+--------------------------------------------------
+Название игры:BlueCloud Summit
+Цена:Нет цены
+Описание игры:Early Access, Card Battler, Roguelike Deckbuilder, Turn-Based Tactics
+--------------------------------------------------
+Название игры:Shift'n Slay
+Цена:Нет цены
+Описание игры:Strategy, Tactical, Turn-Based Tactics, Turn-Based Combat
+--------------------------------------------------
+Название игры:FACEMINER
+Цена:Нет цены
+Описание игры:Clicker, Simulation, 1990's, Retro
+--------------------------------------------------
+Название игры:Midnight Murder Club
+Цена:Нет цены
+Описание игры:Horror, FPS, PvP, Co-op
+--------------------------------------------------
+Название игры:Moon's Creed
+Цена:Нет цены
+Описание игры:Roguelike Deckbuilder, Deckbuilding, Card Game, Card Battler
+--------------------------------------------------
+Название игры:Card Survival: Fantasy Forest
+Цена:Нет цены
+Описание игры:Early Access, Simulation, Open World Survival Craft, Survival
+--------------------------------------------------
+Название игры:Haydee 3
+Цена:Нет цены
+Описание игры:Metroidvania, Third-Person Shooter, 3D Platformer, Third Person
+--------------------------------------------------
+Название игры:Legends of Heropolis DX
+Цена:Нет цены
+Описание игры:Casual, Simulation, Colony Sim, City Builder
+--------------------------------------------------
+Название игры:Star Crafter
+Цена:Нет цены
+Описание игры:Early Access, Open World Survival Craft, Crafting, Base Building
+--------------------------------------------------
+Название игры:HENPRI
+Цена:Нет цены
+Описание игры:Dark Humor, Casual, Visual Novel, Anime
+--------------------------------------------------
+Название игры:Songs of Life
+Цена:Нет цены
+Описание игры:Cute, Tabletop, Cartoon, Cartoony
+--------------------------------------------------
+Название игры:Merchants of Rosewall
+Цена:Нет цены
+Описание игры:Shop Keeper, Fantasy, Simulation, Crafting
+--------------------------------------------------
+Название игры:Knights in Tight Spaces
+Цена:Нет цены
+Описание игры:Card Battler, Isometric, Turn-Based Strategy, Turn-Based Tactics
+--------------------------------------------------
+Название игры:Everhood 2
+Цена:Нет цены
+Описание игры:Psychedelic, Music, Indie, Story Rich
+--------------------------------------------------
+Название игры:Grimoire Groves
+Цена:Нет цены
+Описание игры:Roguelite, Dungeon Crawler, Cozy, Action Roguelike
+--------------------------------------------------
+Название игры:Shadowveil: Legend of The Five Rings
+Цена:Нет цены
+Описание игры:Adventure, Strategy, Roguelite, Roguelike
+--------------------------------------------------
+Название игры:Seekers of Skyveil
+Цена:Free
+Описание игры:Extraction Shooter, MOBA, Twin Stick Shooter, Early Access
+--------------------------------------------------
+Название игры:The Bibites: Digital Life
+Цена:Нет цены
+Описание игры:Early Access, Simulation, Artificial Intelligence, Sandbox
+--------------------------------------------------
+Название игры:AIR
+Цена:Нет цены
+Описание игры:Adventure, Casual, Simulation, Visual Novel
+--------------------------------------------------
+Название игры:iDigging
+Цена:Нет цены
+Описание игры:Adventure, Simulation, Casual, Hidden Object
+--------------------------------------------------
+Название игры:Potion Shop Simulator
+Цена:Нет цены
+Описание игры:Immersive Sim, Shop Keeper, Capitalism, Crafting
+--------------------------------------------------
+Название игры:Scarred
+Цена:Нет цены
+Описание игры:Adventure, Horror, Psychological Horror, Dark
+--------------------------------------------------
+Название игры:Bao Bao's Cozy Laundromat
+Цена:Нет цены
+Описание игры:Idler, Cozy, Cute, Pixel Graphics
+--------------------------------------------------
+Название игры:Never 7 - The End of Infinity
+Цена:Нет цены
+Описание игры:Adventure, Visual Novel, 2D, Anime
+--------------------------------------------------
+Название игры:Ever 17 - The Out of Infinity
+Цена:Нет цены
+Описание игры:Adventure, Visual Novel, 2D, Anime
+--------------------------------------------------
+Название игры:Dragonkin: The Banished
+Цена:Нет цены
+Описание игры:Action, Hack and Slash, Adventure, RPG
+--------------------------------------------------
+Название игры:SERAPH : In the Darkness
+Цена:Free
+Описание игры:Hack and Slash, Loot, Dark Fantasy, Action RPG
+--------------------------------------------------
+Название игры:The Outlast Trials
+Цена:1300 руб520 руб
+Описание игры:Horror, Multiplayer, Co-op, Survival Horror
+--------------------------------------------------
+Название игры:Noita
+Цена:435 руб174 руб
+Описание игры:Physics, Pixel Graphics, Roguelike, Difficult
+--------------------------------------------------
+Название игры:DayZ
+Цена:2790 руб1395 руб
+Описание игры:Survival, Open World, Online Co-Op, Zombies
+--------------------------------------------------
+Название игры:ARK: Survival Ascended
+Цена:4220 руб2321 руб
+Описание игры:Early Access, Survival, Open World, Multiplayer
+--------------------------------------------------
+Название игры:Ranch Simulator: Build, Hunt, Farm
+Цена:465 руб93 руб
+Описание игры:Simulation, Multiplayer, Online Co-Op, Open World
+--------------------------------------------------
+Название игры:The Lord of the Rings: Return to Moria™
+Цена:880 руб528 руб
+Описание игры:Open World Survival Craft, Dwarf, Base Building, Survival
+--------------------------------------------------
+Название игры:Warhammer 40,000: Rogue Trader
+Цена:1599 руб879 руб
+Описание игры:Multiple Endings, Multiplayer, Co-op, Strategy
+--------------------------------------------------
+Название игры:DayZ
+Цена:2790 руб1395 руб
+Описание игры:Survival, Open World, Online Co-Op, Zombies
+--------------------------------------------------
+Название игры:Farming Simulator 22
+Цена:1500 руб900 руб
+Описание игры:Simulation, Farming Sim, Co-op, Multiplayer
+--------------------------------------------------
+Название игры:Spiritfarer®: Farewell Edition
+Цена:1100 руб165 руб
+Описание игры:Emotional, Story Rich, Indie, Management
+--------------------------------------------------
+Название игры:Balatro
+Цена:610 руб518 руб
+Описание игры:Card Game, Roguelike Deckbuilder, Roguelike, Deckbuilding
+--------------------------------------------------
+Название игры:Ultimate Chicken Horse
+Цена:549 руб192 руб
+Описание игры:Multiplayer, Party, Funny, Platformer
+--------------------------------------------------
+Название игры:Insurgency: Sandstorm
+Цена:1699 руб560 руб
+Описание игры:FPS, Realistic, Shooter, Military
+--------------------------------------------------
+Название игры:Breathedge
+Цена:990 руб247 руб
+Описание игры:Open World Survival Craft, Space, Survival, Singleplayer
+--------------------------------------------------
+Название игры:Disco Elysium - The Final Cut
+Цена:725 руб181 руб
+Описание игры:RPG, Story Rich, Choices Matter, Detective
+--------------------------------------------------
+Название игры:Super Bunny Man
+Цена:689 руб413 руб
+Описание игры:Sandbox, Platformer, Multiplayer, Singleplayer
+--------------------------------------------------
+Название игры:My Child Lebensborn Remastered
+Цена:320 руб160 руб
+Описание игры:Simulation, Life Sim, Story Rich, Emotional
+--------------------------------------------------
+Название игры:SCUM
+Цена:2335 руб1167 руб
+Описание игры:Survival, Open World Survival Craft, Multiplayer, Open World
+--------------------------------------------------
+Название игры:Pathfinder: Wrath of the Righteous - Enhanced Edition
+Цена:1199 руб239 руб
+Описание игры:Turn-Based Combat, Romance, Adventure, Strategy
+--------------------------------------------------
+Название игры:Legacy of Kain™ Soul Reaver 1&2 Remastered
+Цена:1100 руб825 руб
+Описание игры:Action, Adventure, Dark Fantasy, Third Person
+--------------------------------------------------
+Название игры:Warhammer 40,000: Rogue Trader - Season Pass
+Цена:999 руб549 руб
+Описание игры:Combat, Action RPG, RPG, Adventure
+--------------------------------------------------
+Название игры:Source of Madness
+Цена:435 руб87 руб
+Описание игры:Roguelite, Lovecraftian, Action, Metroidvania
+--------------------------------------------------
+Название игры:City Car Driving
+Цена:724,89 руб361,89 руб
+Описание игры:Simulation, Driving, Automobile Sim, Open World
+--------------------------------------------------
+Название игры:FAR: Lone Sails
+Цена:550 руб82 руб
+Описание игры:Atmospheric, Adventure, Post-apocalyptic, Singleplayer
+--------------------------------------------------
+Название игры:Inscryption
+Цена:549 руб274 руб
+Описание игры:Card Battler, Card Game, Story Rich, Deckbuilding
+--------------------------------------------------
+Название игры:Pax Dei
+Цена:1999 руб999 руб
+Описание игры:MMORPG, Sandbox, Medieval, RPG
+--------------------------------------------------
+Название игры:Supermarket Simulator
+Цена:490 руб343 руб
+Описание игры:Simulation, Management, Economy, Singleplayer
+--------------------------------------------------
+Название игры:Insurgency
+Цена:360 руб90 руб
+Описание игры:FPS, Realistic, Tactical, Multiplayer
+--------------------------------------------------
+Название игры:DayZ Frostline
+Цена:1690 руб1352 руб
+Описание игры:Survival, Multiplayer, Zombies, Open World
+--------------------------------------------------
+Название игры:Ghost Exile
+Цена:320 руб214 руб
+Описание игры:Horror, Online Co-Op, Co-op, Multiplayer
+--------------------------------------------------
+Название игры:Neighbours back From Hell
+Цена:959 руб316 руб
+Описание игры:Point & Click, Puzzle, Stealth, Comedy
+--------------------------------------------------
+Название игры:ARK: Bob's Tall Tales
+Цена:2728 руб1773 руб
+Описание игры:Adventure, Survival, Action, Open World
+--------------------------------------------------
+Название игры:TEKKEN 7
+Цена:3699 руб554 руб
+Описание игры:Fighting, Action, Multiplayer, Competitive
+--------------------------------------------------
+Название игры:Due Process
+Цена:400 руб24 руб
+Описание игры:Early Access, Adventure, 3D, Futuristic
+--------------------------------------------------
+Название игры:Wreckfest
+Цена:1199 руб599 руб
+Описание игры:Racing, Destruction, Automobile Sim, Simulation
+--------------------------------------------------
+Название игры:Forgive Me Father 2
+Цена:880 руб528 руб
+Описание игры:FPS, Lovecraftian, Boomer Shooter, Action
+--------------------------------------------------
+Название игры:SOMA
+Цена:1100 руб220 руб
+Описание игры:Horror, Psychological Horror, Atmospheric, Dark
+--------------------------------------------------
+Название игры:Untitled Goose Game
+Цена:799 руб359 руб
+Описание игры:Funny, Villain Protagonist, Multiplayer, Co-op
+--------------------------------------------------
+Название игры:Pathfinder: Wrath of the Righteous – Season Pass 2
+Цена:899 руб359 руб
+Описание игры:RPG, Indie, Strategy, Adventure
+--------------------------------------------------
+Название игры:HumanitZ
+Цена:710 руб461 руб
+Описание игры:Early Access, Survival, Zombies, Open World
+--------------------------------------------------
+Название игры:Game of Thrones: Kingsroad Demo
+Цена:Free
+Описание игры:
+--------------------------------------------------
+Название игры:SERAPH : In the Darkness Demo
+Цена:Free
+Описание игры:RPG, Dark Fantasy, Loot, Collectathon
+--------------------------------------------------
+Название игры:Streetdog BMX Demo
+Цена:Free
+Описание игры:
+--------------------------------------------------
+Название игры:Garten of Banban 0
+Цена:Free
+Описание игры:Horror, First-Person, Singleplayer, Puzzle
+--------------------------------------------------
+Название игры:Lost Skies Demo
+Цена:Free
+Описание игры:Adventure, Action, Open World Survival Craft, Base Building
+--------------------------------------------------
+Название игры:Three Kingdoms Mushouden Demo
+Цена:Free
+Описание игры:Strategy, RPG, Strategy RPG, Adventure
+--------------------------------------------------
+Название игры:PUBG: BLINDSPOT Demo
+Цена:Free
+Описание игры:Action, Strategy, Shooter, RTS
+--------------------------------------------------
+Название игры:gogh: Focus with Your Avatar Demo
+Цена:Free
+Описание игры:Casual, Relaxing, Simulation, Utilities
+--------------------------------------------------
+Название игры:Nordhold Demo
+Цена:Free
+Описание игры:Roguelite, Tower Defense, Strategy, Singleplayer
+--------------------------------------------------
+Название игры:Motorcycle Night Ride Demo
+Цена:Free
+Описание игры:Simulation, Racing, Automobile Sim, 3D
+--------------------------------------------------
+Название игры:Dune: Awakening - Character Creator & Benchmark Mode
+Цена:Free
+Описание игры:
+--------------------------------------------------
+Название игры:Sugardew Island - Your cozy farm shop Demo
+Цена:Free
+Описание игры:
+--------------------------------------------------
+Название игры:Mecha BREAK Demo
+Цена:Free
+Описание игры:Mechs, Action, Robots, Free to Play
+--------------------------------------------------
+Название игры:GOD FORSAKEN Demo
+Цена:Free
+Описание игры:Action Roguelike, Action, RPG, Dark Fantasy
+--------------------------------------------------
+Название игры:Cubic Odyssey Demo
+Цена:Free
+Описание игры:Action, Adventure, RPG, Action-Adventure
+--------------------------------------------------
+Название игры:Monster Train 2 Demo
+Цена:Free
+Описание игры:
+--------------------------------------------------
+Название игры:Viking Frontiers: Prologue
+Цена:Free
+Описание игры:Strategy, Action, Adventure, RPG
+--------------------------------------------------
+Название игры:Architect Life: A House Design Simulator Demo
+Цена:Free
+Описание игры:Immersive Sim, Design & Illustration, Education, Sandbox
+--------------------------------------------------
+Название игры:TRIBE NINE
+Цена:Free
+Описание игры:Action, RPG, Free to Play, Difficult
+--------------------------------------------------
+Название игры:The Hundred Line -Last Defense Academy- Demo Ver.
+Цена:Free
+Описание игры:Adventure, Multiple Endings, Story Rich, Dark Humor
+--------------------------------------------------
+Название игры:Texas Hold'em Poker: Pokerist
+Цена:Free
+Описание игры:Free to Play, Card Game, Gambling, Multiplayer
+--------------------------------------------------
+Название игры:Task Force Admiral Demo
+Цена:Free
+Описание игры:
+--------------------------------------------------
+Название игры:Dragonkin: The Banished Demo
+Цена:Free
+Описание игры:
+--------------------------------------------------
+Название игры:Animal Spa Demo
+Цена:Free
+Описание игры:
+--------------------------------------------------
+Название игры:Like a Dragon: Pirate Yakuza in Hawaii Demo
+Цена:Free
+Описание игры:Action, Adventure, RPG, Action RPG
+--------------------------------------------------
+Название игры:Biped 2 Demo
+Цена:Free
+Описание игры:Action, Casual, Simulation, Racing
+--------------------------------------------------
+Название игры:Aethermancer Demo
+Цена:Free
+Описание игры:Roguelike, Party-Based RPG, Creature Collector, Turn-Based Tactics
+--------------------------------------------------
+Название игры:Is This Seat Taken? Demo
+Цена:Free
+Описание игры:
+--------------------------------------------------
+Название игры:Desperate Place Demo
+Цена:Free
+Описание игры:Strategy, Tower Defense, Sci-fi, Resource Management
+--------------------------------------------------
+Название игры:Tower Dominion Demo
+Цена:Free
+Описание игры:
+--------------------------------------------------
