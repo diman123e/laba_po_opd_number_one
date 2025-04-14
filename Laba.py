@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # URL страницы с объявлениями
-url = 'https://auto.drom.ru/'
+url = 'https://auto.drom.ru/region55/new/all/'
 
 # Заголовки для имитации запроса от браузера
 headers = {
@@ -20,7 +20,10 @@ if response.status_code == 200:
     soup = BeautifulSoup(response.text, 'html.parser')
 
     # Находим все элементы с объявлениями
-    ads = soup.find_all('div', class_='css-1f68fiz ea1vuk60', limit=20)
+    ads = soup.find_all('div', attrs={
+        'data-ftid': 'bulls-list_bull',
+        'class': 'css-1f68fiz ea1vuk60'
+    }, limit=20)
 
     if not ads:
         print("Объявления не найдены. Проверьте структуру HTML.")
